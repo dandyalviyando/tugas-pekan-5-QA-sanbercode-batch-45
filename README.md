@@ -10,4 +10,4 @@
 
 - Video recordings of the automation process for the Create Customer scenario can be found [here](https://drive.google.com/file/d/1atvlTzbFH6QRgO7NFT91vhBk1DIn6-Lj/view?usp=sharing)
 
-- Screenshots of the test results for all scenarios can be found [here]https://drive.google.com/drive/folders/1i7KKFU_hm2QR3LKQLaVowoR1_fF2lycm?usp=sharing
+- Screenshots of the test results for all scenarios can be found [here](https://drive.google.com/drive/folders/1i7KKFU_hm2QR3LKQLaVowoR1_fF2lycm?usp=sharing)
